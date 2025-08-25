@@ -15,9 +15,9 @@ O projeto foi feito para praticar conceitos de **componentização**, **hooks** 
 ## 📷 Prints do Projeto
 > Adicione aqui algumas imagens mostrando a interface do jogo
 
-![Print 1](./prints/print1.png)  
-![Print 2](./prints/print2.png)  
-![Print 3](./prints/print3.png)  
+![Print 1](./prints/inicial.jpg")  
+![Print 2](./prints/vencedor_com.jpg)  
+![Print 3](./prints/vencedor_jg.jpg)  
 
 ---
 
