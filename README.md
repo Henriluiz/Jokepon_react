@@ -8,7 +8,7 @@ O projeto foi feito para praticar conceitos de **componentização**, **hooks** 
 ## 🚀 Tecnologias
 - [React](https://reactjs.org/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) / [Styled Components](https://styled-components.com/) *(ou a que você usou)*
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ---
 
