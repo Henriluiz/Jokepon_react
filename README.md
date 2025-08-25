@@ -11,6 +11,7 @@ O projeto foi feito para praticar conceitos de **componentização**, **hooks** 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
 </p>
+
 ---
 
 ## 📷 Prints do Projeto
