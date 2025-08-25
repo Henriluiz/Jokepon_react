@@ -6,9 +6,9 @@ O projeto foi feito para praticar conceitos de **componentização**, **hooks** 
 ---
 
 ## 🚀 Tecnologias
-- [React](https://reactjs.org/)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/> 
+<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
 
 ---
 
