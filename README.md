@@ -21,6 +21,7 @@ O projeto foi feito para praticar conceitos de **componentização**, **hooks** 
   <img src="./prints/vencedor_jg.jpg" width="250"/>
   <img src="./prints/vencedor_com.jpg" width="250"/>
 </p>
+
 ---
 
 ## ⚙️ Como rodar o projeto
