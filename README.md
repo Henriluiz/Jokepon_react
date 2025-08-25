@@ -23,6 +23,8 @@ O projeto foi feito para praticar conceitos de **componentização**, **hooks** 
 
 ## ⚙️ Como rodar o projeto
 
+Requisitos: Node.Js (última versão da LTS), Vscode (Visualização e Edição do código), Expo go (Observa pelo dispositivo mobile, Opcional)
+
 ```bash
 # Clone o repositório
 git clone https://github.com/seu-usuario/jokepo-react.git
@@ -31,7 +33,7 @@ git clone https://github.com/seu-usuario/jokepo-react.git
 cd jokepo-react
 
 # Instale as dependências
-npm install
+npm i
 
 # Rode o projeto
 npm start
