@@ -6,10 +6,11 @@ O projeto foi feito para praticar conceitos de **componentização**, **hooks** 
 ---
 
 ## 🚀 Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/> 
-<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+</p>
 ---
 
 ## 📷 Prints do Projeto
